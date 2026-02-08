@@ -1,6 +1,6 @@
 The docker compose file for my Jellyfin-GlutenVPN
 
-the onlything you need to change is the VPN serivice. for example.
+the only thing you need to change is the VPN serivice. for example:
 
     environment:
       - VPN_SERVICE_PROVIDER=mullvad
