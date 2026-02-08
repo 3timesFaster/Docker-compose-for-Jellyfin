@@ -8,3 +8,7 @@ the only thing you need to change is the VPN serivice. for example:
       - WIREGUARD_PRIVATE_KEY=***********
       - WIREGUARD_ADDRESSES=*************
       - SERVER_CITIES=New York NY
+
+
+this is basically the compose file from this repo https://github.com/Morzomb/All-jellyfin-media-server
+I'm not sure if I made any modifications so I'm backing it up here.
